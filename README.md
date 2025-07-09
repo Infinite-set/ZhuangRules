@@ -1,6 +1,8 @@
 # ZhuangRules
 [ACL'25] Read it in Two Steps: Translating Extremely Low-Resource Languages with Code-Augmented Grammar Books
 
+Preprint: https://arxiv.org/pdf/2506.01796
+
 <div align=center>
 	<img src="Read_it_in_two_steps.png" style="width:600px" alt="110011website✗🗡"/>
 </div>
